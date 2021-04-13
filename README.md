@@ -1,2 +1,3 @@
-GeoHub
-Welcome to the *official* github for the GeoHub minecraft community!
+# GeoHub
+
+## Welcome to the *official* github for the GeoHub minecraft server!
